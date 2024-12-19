@@ -1,0 +1,1318 @@
+{
+    "Fungi": {
+        "scientific_names": [
+            "Zymoseptoria tritici"
+        ],
+        "Molds": {
+            "scientific_names": [
+                "Aspergillus nidulans",
+                "Neurospora crassa"
+            ]
+        },
+        "Yeast": {
+            "scientific_names": [
+                "Eremothecium gossypii",
+                "Kluyveromyces lactis",
+                "Saccharomyces cerevisiae",
+                "Schizosaccharomyces pombe"
+            ]
+        }
+    },
+    "Green plants": {
+        "Non-vascular plants": {
+            "scientific_names": [
+                "Physcomitrium patens"
+            ]
+        },
+        "Seedless vascular plants": {
+            "scientific_names": [
+                "Selaginella moellendorffii"
+            ]
+        },
+        "Flowering plants": {
+            "Basal Angiosperms": {
+                "scientific_names": [
+                    "Amborella trichopoda"
+                ]
+            },
+            "Eudicots": {
+                "scientific_names": [
+                    "Arabidopsis thaliana",
+                    "Solanum lycopersicum",
+                    "Vitis vinifera"
+                ]
+            },
+            "Monocots": {
+                "scientific_names": [
+                    "Brachypodium distachyon",
+                    "Hordeum vulgare",
+                    "Oryza sativa",
+                    "Triticum aestivum",
+                    "Zea mays"
+                ]
+            }
+        },
+        "Non-flowering seed plants": {
+            "scientific_names": [
+                "Glycine max"
+            ]
+        }
+    },
+    "Invertebrates": {
+        "Segmented Worms": {
+            "scientific_names": [
+                "Helobdella robusta"
+            ]
+        },
+        "Arthropods": {
+            "Arachnids": {
+                "scientific_names": [
+                    "Tetranychus urticae"
+                ]
+            },
+            "Myriapods": {
+                "scientific_names": [
+                    "Strigamia maritima"
+                ]
+            },
+            "Insects": {
+                "scientific_names": [
+                    "Zootermopsis nevadensis",
+                    "Tribolium castaneum",
+                    "Anopheles gambiae",
+                    "Drosophila melanogaster",
+                    "Apis mellifera",
+                    "Heliconius melpomene",
+                    "Pediculus humanus"
+                ]
+            }
+        },
+        "Ctenophores": {
+            "scientific_names": [
+                "Mnemiopsis leidyi"
+            ]
+        },
+        "Nematodes": {
+            "scientific_names": [
+                "Brugia malayi",
+                "Caenorhabditis elegans"
+            ]
+        },
+        "Placozoans": {
+            "scientific_names": [
+                "Trichoplax adhaerens"
+            ]
+        },
+        "Flatworms": {
+            "scientific_names": [
+                "Schistosoma mansoni"
+            ]
+        }
+    },
+    "Protists": {
+        "scientific_names": [
+            "Plasmodium falciparum",
+            "Phaeodactylum tricornutum",
+            "Puccinia graminis",
+            "Bigelowiella natans",
+            "Chlamydomonas reinhardtii",
+            "Tetrahymena thermophila",
+            "Leishmania major",
+            "Dictyostelium discoideum",
+            "Emiliania huxleyi",
+            "Phytophthora infestans",
+            "Cyanidioschyzon merolae",
+            "Guillardia theta"
+        ]
+    },
+    "Tunicata": {
+        "scientific_names": [
+            "Ciona savignyi",
+            "Ciona intestinalis"
+        ]
+    },
+    "Vertebrates": {
+        "Bony fishes": {
+            "Teleost fishes": {
+                "scientific_names": [
+                    "Acipenser ruthenus",
+                    "Chelmon rostratus"
+                ],
+                "Labyrinth Fishes": {
+                    "scientific_names": [
+                        "Anabas testudineus",
+                        "Channa argus",
+                        "Betta splendens"
+                    ]
+                },
+                "True Eels": {
+                    "scientific_names": [
+                        "Anguilla anguilla",
+                        "Anguilla rostrata",
+                        "Conger conger"
+                    ]
+                },
+                "Atheriniformes": {
+                    "scientific_names": [
+                        "Melanotaenia boesemani"
+                    ]
+                },
+                "Toadfishes": {
+                    "scientific_names": [
+                        "Thalassophryne amazonica"
+                    ]
+                },
+                "Medakas": {
+                    "scientific_names": [
+                        "Oryzias melastigma",
+                        "Oryzias sinensis",
+                        "Oryzias latipes",
+                        "Oryzias javanicus"
+                    ]
+                },
+                "Needlefish": {
+                    "scientific_names": [
+                        "Cololabis saira"
+                    ]
+                },
+                "Blenniiformes": {
+                    "scientific_names": [
+                        "Salarias fasciatus",
+                        "Gouania willdenowi"
+                    ]
+                },
+                "jacks and Remora": {
+                    "scientific_names": [
+                        "Seriola aureovittata",
+                        "Seriola dumerili",
+                        "Seriola lalandi dorsalis",
+                        "Echeneis naucrates"
+                    ]
+                },
+                "Sunfishes": {
+                    "scientific_names": [
+                        "Micropterus salmoides",
+                        "Micropterus dolomieu",
+                        "Siniperca chuatsi"
+                    ]
+                },
+                "Characiformes": {
+                    "scientific_names": [
+                        "Astyanax mexicanus",
+                        "Hoplias malabaricus",
+                        "Colossoma macropomum",
+                        "Pygocentrus nattereri"
+                    ]
+                },
+                "Cichlids": {
+                    "scientific_names": [
+                        "Amphilophus citrinellus",
+                        "Archocentrus centrarchus",
+                        "Astatotilapia calliptera",
+                        "Haplochromis burtoni",
+                        "Maylandia zebra",
+                        "Neolamprologus brichardi",
+                        "Oreochromis aureus",
+                        "Oreochromis niloticus",
+                        "Pelmatolapia mariae",
+                        "Pundamilia nyererei",
+                        "Simochromis diagramma"
+                    ]
+                },
+                "Herrings and Anchovies": {
+                    "scientific_names": [
+                        "Alosa sapidissima",
+                        "Alosa alosa",
+                        "Clupea harengus",
+                        "Sardina pilchardus",
+                        "Denticeps clupeoides",
+                        "Engraulis encrasicolus"
+                    ]
+                },
+                "Carps and others": {
+                    "scientific_names": [
+                        "Myxocyprinus asiaticus",
+                        "Xyrauchen texanus",
+                        "Misgurnus anguillicaudatus",
+                        "Paramisgurnus dabryanus",
+                        "Carassius carassius",
+                        "Carassius auratus",
+                        "Carassius gibelio",
+                        "Cyprinus carpio",
+                        "Cyprinus carpio carpio",
+                        "Labeo rohita",
+                        "Onychostoma macrolepis",
+                        "Puntigrus tetrazona",
+                        "Sinocyclocheilus grahami",
+                        "Sinocyclocheilus rhinocerous",
+                        "Sinocyclocheilus anshuiensis",
+                        "Danio rerio",
+                        "Danio aesculapii",
+                        "Pseudorasbora parva",
+                        "Pimephales promelas",
+                        "Rhinichthys klamathensis goyatoka",
+                        "Triplophysa rosa",
+                        "Triplophysa dalaica",
+                        "Chanodichthys erythropterus",
+                        "Ctenopharyngodon idella",
+                        "Megalobrama amblycephala"
+                    ]
+                },
+                "Killifishes and others": {
+                    "scientific_names": [
+                        "Cyprinodon variegatus",
+                        "Cyprinodon tularosa",
+                        "Fundulus heteroclitus",
+                        "Girardinichthys multiradiatus",
+                        "Nothobranchius furzeri",
+                        "Gambusia affinis",
+                        "Poecilia formosa",
+                        "Poecilia reticulata",
+                        "Poecilia latipinna",
+                        "Poecilia mexicana",
+                        "Poeciliopsis prolifica",
+                        "Xiphophorus hellerii",
+                        "Xiphophorus maculatus",
+                        "Xiphophorus couchianus",
+                        "Austrofundulus limnaeus",
+                        "Kryptolebias marmoratus",
+                        "Nematolebias whitei"
+                    ]
+                },
+                "Tarpons": {
+                    "scientific_names": [
+                        "Megalops cyprinoides"
+                    ]
+                },
+                "Pikes": {
+                    "scientific_names": [
+                        "Esox lucius"
+                    ]
+                },
+                "cods": {
+                    "scientific_names": [
+                        "Gadus morhua",
+                        "Gadus macrocephalus",
+                        "Gadus chalcogrammus"
+                    ]
+                },
+                "Sleepers": {
+                    "scientific_names": [
+                        "Boleophthalmus pectinirostris",
+                        "Periophthalmus magnuspinnatus"
+                    ]
+                },
+                "Milkfishes": {
+                    "scientific_names": [
+                        "Chanos chanos"
+                    ]
+                },
+                "Electric eels": {
+                    "scientific_names": [
+                        "Electrophorus electricus"
+                    ]
+                },
+                "Soldierfishes": {
+                    "scientific_names": [
+                        "Myripristis murdjan"
+                    ]
+                },
+                "Billfishes": {
+                    "scientific_names": [
+                        "Xiphias gladius"
+                    ]
+                },
+                "Cardinalfishes": {
+                    "scientific_names": [
+                        "Sphaeramia orbicularis"
+                    ]
+                },
+                "Wrasses": {
+                    "scientific_names": [
+                        "Cheilinus undulatus",
+                        "Labrus bergylta",
+                        "Labrus mixtus",
+                        "Notolabrus celidotus"
+                    ]
+                },
+                "Opahs": {
+                    "scientific_names": [
+                        "Lampris incognitus"
+                    ]
+                },
+                "Anglerfishes": {
+                    "scientific_names": [
+                        "Antennarius striatus",
+                        "Brachionichthys hirsutus"
+                    ]
+                },
+                "Mullets": {
+                    "scientific_names": [
+                        "Mugil cephalus"
+                    ]
+                },
+                "Freshwater smelts": {
+                    "scientific_names": [
+                        "Hypomesus transpacificus",
+                        "Osmerus eperlanus",
+                        "Osmerus mordax"
+                    ]
+                },
+                "Bonytongues": {
+                    "scientific_names": [
+                        "Brienomyrus brachyistius",
+                        "Paramormyrops kingsleyae",
+                        "Scleropages formosus"
+                    ]
+                },
+                "Perches and others": {
+                    "scientific_names": [
+                        "Anarrhichthys ocellatus",
+                        "Anoplopoma fimbria",
+                        "Gymnodraco acuticeps",
+                        "Cottoperca gobio",
+                        "Pseudochaenichthys georgianus",
+                        "Clinocottus analis",
+                        "Cyclopterus lumpus",
+                        "Eleginops maclovinus",
+                        "Gasterosteus aculeatus",
+                        "Pungitius pungitius",
+                        "Pseudoliparis swirei",
+                        "Notothenia coriiceps",
+                        "Trematomus bernacchii",
+                        "Etheostoma spectabile",
+                        "Etheostoma cragini",
+                        "Perca fluviatilis",
+                        "Perca flavescens",
+                        "Sander lucioperca",
+                        "Sebastes umbrosus",
+                        "Centropristis striata",
+                        "Epinephelus lanceolatus",
+                        "Epinephelus moara",
+                        "Epinephelus fuscoguttatus",
+                        "Plectropomus leopardus",
+                        "Cebidichthys violaceus"
+                    ]
+                },
+                "Flatfishes": {
+                    "scientific_names": [
+                        "Cynoglossus semilaevis",
+                        "Paralichthys olivaceus",
+                        "Hippoglossus hippoglossus",
+                        "Hippoglossus stenolepis",
+                        "Limanda limanda",
+                        "Platichthys flesus",
+                        "Pleuronectes platessa",
+                        "Scophthalmus maximus",
+                        "Solea senegalensis",
+                        "Solea solea"
+                    ]
+                },
+                "Salmons and Trouts": {
+                    "scientific_names": [
+                        "Coregonus clupeaformis",
+                        "Hucho hucho",
+                        "Oncorhynchus tshawytscha",
+                        "Oncorhynchus mykiss",
+                        "Oncorhynchus gorbuscha",
+                        "Oncorhynchus nerka",
+                        "Oncorhynchus keta",
+                        "Oncorhynchus masou masou",
+                        "Oncorhynchus kisutch",
+                        "Salmo salar",
+                        "Salmo trutta",
+                        "Salvelinus fontinalis",
+                        "Salvelinus sp. IW2-2015",
+                        "Salvelinus namaycush"
+                    ]
+                },
+                "Tunas and Mackerels": {
+                    "scientific_names": [
+                        "Scomber japonicus",
+                        "Scomber scombrus",
+                        "Thunnus albacares",
+                        "Thunnus thynnus",
+                        "Thunnus maccoyii"
+                    ]
+                },
+                "Catfishes": {
+                    "scientific_names": [
+                        "Neoarius graeffei",
+                        "Hemibagrus wyckioides",
+                        "Tachysurus vachellii",
+                        "Tachysurus fulvidraco",
+                        "Clarias gariepinus",
+                        "Ictalurus punctatus",
+                        "Ictalurus furcatus",
+                        "Pangasianodon hypophthalmus",
+                        "Silurus meridionalis",
+                        "Trichomycterus rosablanca"
+                    ]
+                },
+                "Porgies": {
+                    "scientific_names": [
+                        "Acanthopagrus latus",
+                        "Sparus aurata"
+                    ]
+                },
+                "Spiny Eels and Swamp Eels": {
+                    "scientific_names": [
+                        "Mastacembelus armatus",
+                        "Monopterus albus"
+                    ]
+                },
+                "Pipefishes and Seahorses": {
+                    "scientific_names": [
+                        "Synchiropus splendidus",
+                        "Corythoichthys intestinalis",
+                        "Doryrhamphus excisus",
+                        "Dunckerocampus dactyliophorus",
+                        "Entelurus aequoreus",
+                        "Hippocampus comes",
+                        "Hippocampus zosterae",
+                        "Nerophis ophidion",
+                        "Nerophis lumbriciformis",
+                        "Phycodurus eques",
+                        "Phyllopteryx taeniolatus",
+                        "Syngnathoides biaculeatus",
+                        "Syngnathus acus",
+                        "Syngnathus scovelli",
+                        "Syngnathus typhle"
+                    ]
+                },
+                "Pufferfishes": {
+                    "scientific_names": [
+                        "Takifugu rubripes",
+                        "Takifugu flavidus",
+                        "Tetraodon nigroviridis"
+                    ]
+                },
+                "Ovalentaria incertae sedis": {
+                    "scientific_names": [
+                        "Parambassis ranga",
+                        "Embiotoca jacksoni",
+                        "Acanthochromis polyacanthus",
+                        "Amphiprion ocellaris",
+                        "Stegastes partitus"
+                    ]
+                },
+                "Carangaria incertae sedis": {
+                    "scientific_names": [
+                        "Lates calcarifer",
+                        "Toxotes jaculatrix"
+                    ]
+                },
+                "Eupercaria incertae sedis": {
+                    "scientific_names": [
+                        "Dicentrarchus labrax",
+                        "Morone saxatilis",
+                        "Scatophagus argus",
+                        "Larimichthys crocea"
+                    ]
+                },
+                "Incertae sedis": {
+                    "scientific_names": [
+                        "Amphiprion percula"
+                    ]
+                }
+            },
+            "Paddlefish": {
+                "scientific_names": [
+                    "Polyodon spathula"
+                ]
+            },
+            "Bowfins": {
+                "scientific_names": [
+                    "Amia calva"
+                ]
+            },
+            "Gars": {
+                "scientific_names": [
+                    "Lepisosteus oculatus"
+                ]
+            },
+            "reedfish": {
+                "scientific_names": [
+                    "Erpetoichthys calabaricus",
+                    "Polypterus senegalus"
+                ]
+            }
+        },
+        "Amphibian": {
+            "Frogs & Toads": {
+                "scientific_names": [
+                    "Bombina bombina",
+                    "Bufo gargarizans",
+                    "Bufo bufo",
+                    "Nanorana parkeri",
+                    "Eleutherodactylus coqui",
+                    "Hyla sarda",
+                    "Hyperolius riggenbachi",
+                    "Leptobrachium leishanense",
+                    "Pseudophryne corroboree",
+                    "Pelobates fuscus",
+                    "Spea bombifrons",
+                    "Xenopus tropicalis",
+                    "Xenopus laevis",
+                    "Rana temporaria"
+                ]
+            },
+            "Salamanders": {
+                "scientific_names": [
+                    "Pleurodeles waltl"
+                ]
+            },
+            "Caecilians": {
+                "scientific_names": [
+                    "Geotrypetes seraphini",
+                    "Rhinatrema bivittatum",
+                    "Microcaecilia unicolor"
+                ]
+            }
+        },
+        "Birds": {
+            "Hawks & Eagles": {
+                "scientific_names": [
+                    "Accipiter gentilis",
+                    "Aquila chrysaetos chrysaetos",
+                    "Haliaeetus albicilla",
+                    "Haliaeetus leucocephalus",
+                    "Harpia harpyja",
+                    "Gymnogyps californianus"
+                ]
+            },
+            "Galloanserae": {
+                "Ducks, Geese & Swans": {
+                    "scientific_names": [
+                        "Anas platyrhynchos platyrhynchos",
+                        "Anas platyrhynchos",
+                        "Anas acuta",
+                        "Anser cygnoides",
+                        "Anser brachyrhynchus",
+                        "Aythya fuligula",
+                        "Cygnus olor",
+                        "Cygnus atratus",
+                        "Oxyura jamaicensis"
+                    ]
+                },
+                "Landfowls": {
+                    "scientific_names": [
+                        "Numida meleagris",
+                        "Cyrtonyx montezumae",
+                        "Centrocercus urophasianus",
+                        "Coturnix japonica",
+                        "Gallus gallus",
+                        "Lagopus muta",
+                        "Lagopus leucura",
+                        "Meleagris gallopavo",
+                        "Phasianus colchicus",
+                        "Tympanuchus pallidicinctus"
+                    ]
+                }
+            },
+            "Swifts and Hummingbirds": {
+                "scientific_names": [
+                    "Apus apus",
+                    "Chaetura pelagica",
+                    "Calypte anna"
+                ]
+            },
+            "Kiwis": {
+                "scientific_names": [
+                    "Apteryx mantelli",
+                    "Apteryx rowi"
+                ]
+            },
+            "Hornbills": {
+                "scientific_names": [
+                    "Buceros rhinoceros silvestris"
+                ]
+            },
+            "Nightjars": {
+                "scientific_names": [
+                    "Antrostomus carolinensis",
+                    "Nyctibius grandis"
+                ]
+            },
+            "Seriemas": {
+                "scientific_names": [
+                    "Cariama cristata"
+                ]
+            },
+            "Emus": {
+                "scientific_names": [
+                    "Dromaius novaehollandiae"
+                ]
+            },
+            "Shorebirds & allies": {
+                "scientific_names": [
+                    "Charadrius vociferus",
+                    "Chroicocephalus ridibundus",
+                    "Rissa tridactyla",
+                    "Calidris pugnax"
+                ]
+            },
+            "Mousebirds": {
+                "scientific_names": [
+                    "Colius striatus"
+                ]
+            },
+            "pigeons": {
+                "scientific_names": [
+                    "Caloenas nicobarica",
+                    "Columba livia",
+                    "Patagioenas fasciata"
+                ]
+            },
+            "Kingfishers and others": {
+                "scientific_names": [
+                    "Leptosomus discolor",
+                    "Merops nubicus"
+                ]
+            },
+            "Cuckoos": {
+                "scientific_names": [
+                    "Cuculus canorus"
+                ]
+            },
+            "Eurypygiformes": {
+                "scientific_names": [
+                    "Eurypyga helias"
+                ]
+            },
+            "Falcons": {
+                "scientific_names": [
+                    "Falco naumanni",
+                    "Falco peregrinus",
+                    "Falco cherrug",
+                    "Falco biarmicus",
+                    "Falco rusticolus"
+                ]
+            },
+            "Loons": {
+                "scientific_names": [
+                    "Gavia stellata"
+                ]
+            },
+            "Cranes, Rails & allies": {
+                "scientific_names": [
+                    "Balearica regulorum gibbericeps",
+                    "Grus americana"
+                ]
+            },
+            "scientific_names": [
+                "Mesitornis unicolor",
+                "Chlamydotis macqueenii",
+                "Phaethon lepturus",
+                "Pterocles gutturalis",
+                "Phalacrocorax carbo",
+                "Apaloderma vittatum"
+            ],
+            "Turacos": {
+                "scientific_names": [
+                    "Tauraco erythrolophus"
+                ]
+            },
+            "Opisthocomus hoazin": {
+                "scientific_names": [
+                    "Opisthocomus hoazin"
+                ]
+            },
+            "Song birds": {
+                "scientific_names": [
+                    "Acanthisitta chloris",
+                    "Cinclus cinclus",
+                    "Prinia subflava",
+                    "Aphelocoma coerulescens",
+                    "Corvus kubaryi",
+                    "Corvus moneduloides",
+                    "Corvus cornix cornix",
+                    "Corvus brachyrhynchos",
+                    "Corvus hawaiiensis",
+                    "Lonchura striata",
+                    "Taeniopygia guttata",
+                    "Vidua chalybeata",
+                    "Vidua macroura",
+                    "Haemorhous mexicanus",
+                    "Serinus canaria",
+                    "Hirundo rustica",
+                    "Agelaius phoeniceus",
+                    "Molothrus ater",
+                    "Molothrus aeneus",
+                    "Malurus melanocephalus",
+                    "Motacilla alba alba",
+                    "Ficedula albicollis",
+                    "Oenanthe melanoleuca",
+                    "Cyanistes caeruleus",
+                    "Parus major",
+                    "Poecile atricapillus",
+                    "Pseudopodoces humilis",
+                    "Ammospiza nelsoni",
+                    "Ammospiza caudacuta",
+                    "Melospiza georgiana",
+                    "Melospiza melodia melodia",
+                    "Melozone crissalis",
+                    "Zonotrichia albicollis",
+                    "Zonotrichia leucophrys gambelii",
+                    "Anomalospiza imberbis",
+                    "Onychostruthus taczanowskii",
+                    "Passer domesticus",
+                    "Passer montanus",
+                    "Pyrgilauda ruficollis",
+                    "Chiroxiphia lanceolata",
+                    "Corapipo altera",
+                    "Lepidothrix coronata",
+                    "Manacus candei",
+                    "Manacus vitellinus",
+                    "Neopelma chrysocephalum",
+                    "Pipra filicauda",
+                    "Pseudopipra pipra",
+                    "Sturnus vulgaris",
+                    "Chamaea fasciata",
+                    "Sylvia atricapilla",
+                    "Camarhynchus parvulus",
+                    "Geospiza fortis",
+                    "Catharus ustulatus",
+                    "Empidonax traillii",
+                    "Myiozetetes cayanensis"
+                ]
+            },
+            "Ibis, Herons and Pelicans": {
+                "scientific_names": [
+                    "Egretta garzetta",
+                    "Pelecanus crispus",
+                    "Nipponia nippon"
+                ]
+            },
+            "Woodpeckers and others": {
+                "scientific_names": [
+                    "Indicator indicator",
+                    "Pogoniulus pusillus",
+                    "Dryobates pubescens",
+                    "Melanerpes formicivorus"
+                ]
+            },
+            "Petrels": {
+                "scientific_names": [
+                    "Fulmarus glacialis"
+                ]
+            },
+            "Parrots and other": {
+                "scientific_names": [
+                    "Lathamus discolor",
+                    "Neopsephotus bourkii",
+                    "Nestor notabilis",
+                    "Pezoporus occidentalis",
+                    "Pezoporus flaviventris",
+                    "Pezoporus wallicus",
+                    "Strigops habroptila",
+                    "Melopsittacus undulatus"
+                ]
+            },
+            "Rheas": {
+                "scientific_names": [
+                    "Rhea pennata"
+                ]
+            },
+            "Penguins": {
+                "scientific_names": [
+                    "Aptenodytes forsteri",
+                    "Pygoscelis adeliae"
+                ]
+            },
+            "Owls": {
+                "scientific_names": [
+                    "Athene cunicularia",
+                    "Tyto alba"
+                ]
+            },
+            "Ostriches": {
+                "scientific_names": [
+                    "Struthio camelus australis",
+                    "Struthio camelus"
+                ]
+            },
+            "Tinamous": {
+                "scientific_names": [
+                    "Nothoprocta perdicaria",
+                    "Tinamus guttatus"
+                ]
+            }
+        },
+        "Cartilaginous fishes": {
+            "Sharks & Rays": {
+                "scientific_names": [
+                    "Scyliorhinus canicula",
+                    "Heterodontus francisci",
+                    "Heptranchias perlo",
+                    "Carcharodon carcharias",
+                    "Hypanus sabinus",
+                    "Mobula hypostoma",
+                    "Chiloscyllium plagiosum",
+                    "Hemiscyllium ocellatum",
+                    "Rhincodon typus",
+                    "Stegostoma tigrinum",
+                    "Amblyraja radiata",
+                    "Leucoraja erinaceus",
+                    "Pristis pectinata"
+                ]
+            },
+            "chimaeras": {
+                "scientific_names": [
+                    "Callorhinchus milii"
+                ]
+            }
+        },
+        "Lampreys": {
+            "scientific_names": [
+                "Lethenteron reissneri",
+                "Petromyzon marinus"
+            ]
+        },
+        "Lizards&Snakes": {
+            "scientific_names": [
+                "Sphenodon punctatus",
+                "Pogona vitticeps",
+                "Elgaria multicarinata webbii",
+                "Candoia aspera",
+                "Ahaetulla prasina",
+                "Pantherophis guttatus",
+                "Thamnophis elegans",
+                "Thamnophis sirtalis",
+                "Hemicordylus capensis",
+                "Anolis carolinensis",
+                "Anolis sagrei",
+                "Laticauda laticaudata",
+                "Naja naja",
+                "Notechis scutatus",
+                "Pseudonaja textilis",
+                "Eublepharis macularius",
+                "Gekko japonicus",
+                "Heteronotia binoei",
+                "Lacerta agilis",
+                "Podarcis raffonei",
+                "Podarcis muralis",
+                "Zootoca vivipara",
+                "Sceloporus undulatus",
+                "Python bivittatus",
+                "Rhineura floridana",
+                "Tiliqua scincoides",
+                "Euleptes europaea",
+                "Sphaerodactylus townsendi",
+                "Salvator merianae",
+                "Varanus komodoensis",
+                "Crotalus tigris",
+                "Protobothrops mucrosquamatus"
+            ]
+        },
+        "mammals": {
+            "Placentals": {
+                "Even-toed ungulates & Whales": {
+                    "Whales & Dolphins": {
+                        "scientific_names": [
+                            "Eubalaena glacialis",
+                            "Balaenoptera ricei",
+                            "Balaenoptera acutorostrata",
+                            "Balaenoptera musculus",
+                            "Delphinus delphis",
+                            "Globicephala melas",
+                            "Lagenorhynchus obliquidens",
+                            "Lagenorhynchus albirostris",
+                            "Orcinus orca",
+                            "Pseudorca crassidens",
+                            "Tursiops truncatus",
+                            "Eschrichtius robustus",
+                            "Lipotes vexillifer",
+                            "Delphinapterus leucas",
+                            "Monodon monoceros",
+                            "Neophocaena asiaeorientalis asiaeorientalis",
+                            "Phocoena sinus",
+                            "Phocoena phocoena",
+                            "Kogia breviceps",
+                            "Physeter catodon"
+                        ]
+                    },
+                    "scientific_names": [
+                        "Bison bison bison",
+                        "Bos grunniens",
+                        "Bos taurus",
+                        "Bos javanicus",
+                        "Bos mutus",
+                        "Bos indicus x Bos taurus",
+                        "Bos indicus",
+                        "Bubalus kerabau",
+                        "Bubalus bubalis",
+                        "Budorcas taxicolor",
+                        "Capra hircus",
+                        "Capricornis sumatraensis",
+                        "Oryx dammah",
+                        "Ovis canadensis",
+                        "Ovis aries",
+                        "Camelus dromedarius",
+                        "Camelus ferus",
+                        "Camelus bactrianus",
+                        "Vicugna pacos",
+                        "Cervus hanglu yarkandensis",
+                        "Cervus canadensis",
+                        "Cervus elaphus",
+                        "Dama dama",
+                        "Muntiacus reevesi",
+                        "Odocoileus virginianus",
+                        "Hippopotamus amphibius kiboko",
+                        "Moschus berezovskii",
+                        "Phacochoerus africanus",
+                        "Sus scrofa"
+                    ]
+                },
+                "Carnivores": {
+                    "scientific_names": [
+                        "Canis lupus familiaris",
+                        "Canis lupus dingo",
+                        "Nyctereutes procyonoides",
+                        "Vulpes vulpes",
+                        "Vulpes lagopus",
+                        "Acinonyx jubatus",
+                        "Felis catus",
+                        "Leopardus geoffroyi",
+                        "Lynx canadensis",
+                        "Lynx rufus",
+                        "Neofelis nebulosa",
+                        "Panthera uncia",
+                        "Panthera onca",
+                        "Panthera leo",
+                        "Panthera tigris altaica",
+                        "Panthera pardus",
+                        "Panthera tigris",
+                        "Prionailurus bengalensis",
+                        "Prionailurus viverrinus",
+                        "Puma yagouaroundi",
+                        "Puma concolor",
+                        "Suricata suricatta",
+                        "Hyaena hyaena",
+                        "Enhydra lutris kenyoni",
+                        "Lontra canadensis",
+                        "Lutra lutra",
+                        "Meles meles",
+                        "Mustela nigripes",
+                        "Mustela erminea",
+                        "Mustela lutreola",
+                        "Mustela putorius furo",
+                        "Neogale vison",
+                        "Odobenus rosmarus divergens",
+                        "Callorhinus ursinus",
+                        "Eumetopias jubatus",
+                        "Zalophus californianus",
+                        "Halichoerus grypus",
+                        "Leptonychotes weddellii",
+                        "Mirounga leonina",
+                        "Mirounga angustirostris",
+                        "Neomonachus schauinslandi",
+                        "Phoca vitulina",
+                        "Ailuropoda melanoleuca",
+                        "Ursus maritimus",
+                        "Ursus arctos",
+                        "Ursus americanus"
+                    ]
+                },
+                "Bats": {
+                    "scientific_names": [
+                        "Saccopteryx leptura",
+                        "Saccopteryx bilineata",
+                        "Hipposideros armiger",
+                        "Miniopterus natalensis",
+                        "Molossus molossus",
+                        "Pteronotus mesoamericanus",
+                        "Artibeus jamaicensis",
+                        "Desmodus rotundus",
+                        "Phyllostomus hastatus",
+                        "Phyllostomus discolor",
+                        "Sturnira hondurensis",
+                        "Pteropus vampyrus",
+                        "Pteropus giganteus",
+                        "Pteropus alecto",
+                        "Rousettus aegyptiacus",
+                        "Rhinolophus sinicus",
+                        "Rhinolophus ferrumequinum",
+                        "Eptesicus fuscus",
+                        "Myotis brandtii",
+                        "Myotis daubentonii",
+                        "Myotis davidii",
+                        "Myotis lucifugus",
+                        "Myotis myotis",
+                        "Pipistrellus kuhlii"
+                    ]
+                },
+                "Armadillos": {
+                    "scientific_names": [
+                        "Dasypus novemcinctus"
+                    ]
+                },
+                "Flying Lemurs": {
+                    "scientific_names": [
+                        "Cynocephalus volans",
+                        "Galeopterus variegatus"
+                    ]
+                },
+                "Insectivores": {
+                    "scientific_names": [
+                        "Erinaceus europaeus",
+                        "Sorex fumeus",
+                        "Sorex araneus",
+                        "Suncus etruscus",
+                        "Condylura cristata",
+                        "Talpa occidentalis",
+                        "Procavia capensis"
+                    ]
+                },
+                "Rabbits &Hares": {
+                    "scientific_names": [
+                        "Lepus europaeus",
+                        "Oryctolagus cuniculus",
+                        "Ochotona curzoniae",
+                        "Ochotona princeps"
+                    ]
+                },
+                "Afrotheria": {
+                    "scientific_names": [
+                        "Elephantulus edwardii",
+                        "Elephas maximus indicus",
+                        "Loxodonta africana",
+                        "Trichechus manatus latirostris",
+                        "Orycteropus afer afer",
+                        "Chrysochloris asiatica",
+                        "Echinops telfairi"
+                    ]
+                },
+                "Odd-toed ungulates": {
+                    "scientific_names": [
+                        "Equus asinus",
+                        "Equus caballus",
+                        "Equus quagga",
+                        "Equus przewalskii",
+                        "Ceratotherium simum simum",
+                        "Diceros bicornis minor"
+                    ]
+                },
+                "Pangolins": {
+                    "scientific_names": [
+                        "Manis javanica",
+                        "Manis pentadactyla"
+                    ]
+                },
+                "Sloths": {
+                    "scientific_names": [
+                        "Choloepus hoffmanni",
+                        "Choloepus didactylus"
+                    ]
+                },
+                "Primates": {
+                    "New world Monkeys": {
+                        "scientific_names": [
+                            "Aotus nancymaae",
+                            "Callithrix jacchus",
+                            "Cebus imitator",
+                            "Saimiri boliviensis",
+                            "Saimiri boliviensis boliviensis",
+                            "Sapajus apella"
+                        ]
+                    },
+                    "Old World Monkeys": {
+                        "scientific_names": [
+                            "Cercocebus atys",
+                            "Chlorocebus sabaeus",
+                            "Colobus angolensis palliatus",
+                            "Macaca thibetana thibetana",
+                            "Macaca nemestrina",
+                            "Macaca fascicularis",
+                            "Macaca mulatta",
+                            "Mandrillus leucophaeus",
+                            "Papio anubis",
+                            "Piliocolobus tephrosceles",
+                            "Rhinopithecus bieti",
+                            "Rhinopithecus roxellana",
+                            "Theropithecus gelada",
+                            "Trachypithecus francoisi"
+                        ]
+                    },
+                    "Prosimians": {
+                        "scientific_names": [
+                            "Microcebus murinus",
+                            "Otolemur garnettii",
+                            "Propithecus coquereli",
+                            "Eulemur rufifrons",
+                            "Lemur catta",
+                            "Prolemur simus",
+                            "Nycticebus coucang"
+                        ]
+                    },
+                    "Apes": {
+                        "scientific_names": [
+                            "Gorilla gorilla",
+                            "Gorilla gorilla gorilla",
+                            "Homo sapiens",
+                            "Pan troglodytes",
+                            "Pan paniscus",
+                            "Pongo abelii",
+                            "Pongo pygmaeus",
+                            "Hylobates moloch",
+                            "Nomascus leucogenys",
+                            "Symphalangus syndactylus"
+                        ]
+                    },
+                    "Tarsiers": {
+                        "scientific_names": [
+                            "Carlito syrichta"
+                        ]
+                    }
+                },
+                "Rodents": {
+                    "Guinea pigs and others": {
+                        "scientific_names": [
+                            "Fukomys damarensis",
+                            "Heterocephalus glaber",
+                            "Cavia porcellus",
+                            "Chinchilla lanigera",
+                            "Octodon degus"
+                        ]
+                    },
+                    "Beavers and others": {
+                        "scientific_names": [
+                            "Castor canadensis",
+                            "Dipodomys ordii",
+                            "Dipodomys spectabilis",
+                            "Perognathus longimembris pacificus"
+                        ]
+                    },
+                    "Mice and others": {
+                        "scientific_names": [
+                            "Alexandromys fortis",
+                            "Arvicola amphibius",
+                            "Chionomys nivalis",
+                            "Cricetulus griseus",
+                            "Mesocricetus auratus",
+                            "Microtus oregoni",
+                            "Microtus ochrogaster",
+                            "Myodes glareolus",
+                            "Onychomys torridus",
+                            "Peromyscus maniculatus bairdii",
+                            "Peromyscus leucopus",
+                            "Peromyscus eremicus",
+                            "Peromyscus californicus insignis",
+                            "Phodopus roborovskii",
+                            "Jaculus jaculus",
+                            "Acomys russatus",
+                            "Apodemus sylvaticus",
+                            "Arvicanthis niloticus",
+                            "Grammomys surdaster",
+                            "Mastomys coucha",
+                            "Meriones unguiculatus",
+                            "Mus pahari",
+                            "Mus musculus",
+                            "Mus caroli",
+                            "Mus spicilegus",
+                            "Psammomys obesus",
+                            "Rattus rattus",
+                            "Rattus norvegicus",
+                            "Nannospalax galili"
+                        ]
+                    },
+                    "Squirrels": {
+                        "scientific_names": [
+                            "Ictidomys tridecemlineatus",
+                            "Marmota monax",
+                            "Marmota flaviventris",
+                            "Marmota marmota marmota",
+                            "Sciurus vulgaris",
+                            "Sciurus carolinensis",
+                            "Urocitellus parryii"
+                        ]
+                    }
+                },
+                "Tree Shrews": {
+                    "scientific_names": [
+                        "Tupaia belangeri",
+                        "Tupaia chinensis"
+                    ]
+                }
+            },
+            "Even-toed ungulates & Whales": {
+                "scientific_names": [
+                    "Moschus moschiferus",
+                    "Catagonus wagneri"
+                ],
+                "Whales & Dolphins": {
+                    "scientific_names": [
+                        "Mesoplodon densirostris"
+                    ]
+                }
+            },
+            "Marsupials": {
+                "scientific_names": [
+                    "Antechinus flavipes",
+                    "Sarcophilus harrisii",
+                    "Gracilinanus agilis",
+                    "Monodelphis domestica",
+                    "Notamacropus eugenii",
+                    "Petaurus breviceps papuanus",
+                    "Trichosurus vulpecula",
+                    "Phascolarctos cinereus",
+                    "Vombatus ursinus",
+                    "Dromiciops gliroides"
+                ]
+            },
+            "Monotremes": {
+                "scientific_names": [
+                    "Ornithorhynchus anatinus"
+                ]
+            },
+            "monotremes": {
+                "scientific_names": [
+                    "Tachyglossus aculeatus"
+                ]
+            }
+        },
+        "Hagfishes": {
+            "scientific_names": [
+                "Eptatretus burgeri",
+                "Myxine glutinosa"
+            ]
+        },
+        "Lungfishes": {
+            "scientific_names": [
+                "Protopterus annectens"
+            ]
+        },
+        "Coelacanths": {
+            "scientific_names": [
+                "Latimeria chalumnae"
+            ]
+        },
+        "Alligators and others": {
+            "scientific_names": [
+                "Alligator sinensis",
+                "Alligator mississippiensis",
+                "Crocodylus porosus",
+                "Gavialis gangeticus"
+            ]
+        },
+        "Turtles": {
+            "scientific_names": [
+                "Emydura macquarii macquarii",
+                "Caretta caretta",
+                "Chelonia mydas",
+                "Dermochelys coriacea",
+                "Chrysemys picta bellii",
+                "Emys orbicularis",
+                "Malaclemys terrapin pileata",
+                "Terrapene triunguis",
+                "Trachemys scripta elegans",
+                "Mauremys reevesii",
+                "Mauremys mutica",
+                "Chelonoidis abingdonii",
+                "Gopherus flavomarginatus",
+                "Gopherus evgoodei",
+                "Pelodiscus sinensis"
+            ]
+        }
+    }
+}
